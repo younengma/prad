@@ -1,13 +1,188 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="b93da79d-a119-40bc-9aad-0032596d812b" name="Default Changelist" comment="" />
+    <list default="true" id="b93da79d-a119-40bc-9aad-0032596d812b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/e2e/prefix1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/e2e/test.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/mnli/adapter0_3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/mnli/adapter0_4.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/mnli/adapter0_5.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/mnli/adapter0_e100.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/mnli/adapter_1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/mnli/adapter_11.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/mnli/adapter_1p.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/mnli/adapter_2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/mnli/adapter_3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/mnli/adapter_4.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/mnli/adapter_5.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/mnli/adapter_e100.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/mnli/adapter_e50.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/mnli/adapter_wot.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/mnli/full_5.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/mnli/l_adapter.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/mnli/l_adapter0.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/mnli/l_lora.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/mnli/l_lora0.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/mnli/l_prefix.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/mnli/mam0_5.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/mnli/mam_5.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/mnli/prefix1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/mnli/prefix2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/mnli/prefix5.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/mnli/prefix6.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/mnli/prefix_p.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/mnli/test.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/mnli1/adapter.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/mnli1/adapter0.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/mnli1/adapter0_3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/mnli1/adapter0_4.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/mnli1/adapter0_5.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/mnli1/adapter0_e100.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/mnli1/adapter_1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/mnli1/adapter_11.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/mnli1/adapter_1p.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/mnli1/adapter_2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/mnli1/adapter_3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/mnli1/adapter_4.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/mnli1/adapter_5.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/mnli1/adapter_e100.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/mnli1/adapter_e50.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/mnli1/adapter_wot.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/mnli1/full.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/mnli1/full_5.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/mnli1/lora.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/mnli1/lora0.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/mnli1/lora0_1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/mnli1/lora0_2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/mnli1/lora0_3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/mnli1/lora_1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/mnli1/lora_3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/mnli1/mam.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/mnli1/mam0.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/mnli1/mam0_1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/mnli1/mam0_5.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/mnli1/mam_5.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/mnli1/prefix.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/mnli1/prefix1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/mnli1/prefix2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/mnli1/prefix5.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/mnli1/prefix6.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/mnli1/prefix_1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/mnli1/test.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/mt/adapter0_1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/mt/adapter_1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/mt/l_adapter.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/mt/l_adapter0.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/mt/l_adt.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/mt/l_adt0.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/mt/l_dora.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/mt/l_dora0.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/mt/l_lora.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/mt/l_lora0.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/mt/l_prefix.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/mt/lora_c6.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/mt/lora_d.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/mt/lora_ffn.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/mt/lora_r16.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/mt/lora_s.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/mt/madapter0.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/mt/s_adapter.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/mt/s_adapter0.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/mt/s_dora.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/mt/s_dora0.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/mt/s_full.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/mt/s_lora.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/mt/s_lora0.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/sst2/adapter0_1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/sst2/adapter0_e100.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/sst2/adapter_1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/sst2/adapter_11.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/sst2/adapter_1p.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/sst2/adapter_e100.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/sst2/adapter_e50.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/sst2/adapter_wot.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/sst2/full1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/sst2/l_adapter.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/sst2/l_adapter0.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/sst2/l_dora.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/sst2/l_dora0.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/sst2/l_full.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/sst2/l_lora.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/sst2/l_lora0.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/sst2/l_prefix.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/sst2/lora0_1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/sst2/lora0_2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/sst2/lora0_3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/sst2/lora_3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/sst2/prefix1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/sst2/prefix_1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/sst2/test.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/web_nlg/adapter_2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/web_nlg/adapter_attn.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/web_nlg/adapter_e100.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/web_nlg/adapter_e20.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/web_nlg/adapter_e30.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/web_nlg/adapter_e50.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/web_nlg/adapter_e50b.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/web_nlg/adapter_ffn_attn.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/web_nlg/adapter_r32.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/web_nlg/adapter_r64.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/web_nlg/adapter_r8.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/web_nlg/adapter_tt.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/web_nlg/full1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/xsum/adapter0_1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/xsum/adapter1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/xsum/adapter_1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/xsum/adapter_tt.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/xsum/dora0_s.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/xsum/dora_s.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/xsum/full1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/xsum/l_adapter.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/xsum/l_adapter0.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/xsum/l_dora.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/xsum/l_dora0.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/xsum/l_lora.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/xsum/l_lora0.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/xsum/l_prefix.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/xsum/lora0_1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/xsum/lora0_2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/xsum/lora0_3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/xsum/lora_1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/xsum/lora_2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/xsum/lora_3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/xsum/mam0_1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/xsum/mam_1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/xsum/prefix1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/xsum/prefix2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/xsum/prefix_1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/xsum/s_adapter.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/xsum/s_adapter0.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/xsum/s_lora.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/xsum/s_lora0.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/xsum/test.json" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="35KCilIcAyBGt2SHYPIib9AIBCC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -47,9 +222,9 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
+      <option name="SDK_HOME" value="C:\ProgramData\Anaconda3\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/train.py" />
@@ -82,11 +257,28 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="2334" y="171" width="1092" height="715" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1762849567361">
-      <screen x="1920" y="0" width="1920" height="1032" />
+    <state x="276" y="96" width="728" height="576" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1763601094824">
+      <screen x="0" y="0" width="1280" height="672" />
     </state>
     <state x="2334" y="171" width="1092" height="715" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.672/1920.0.1920.1032@1920.0.1920.1032" timestamp="1762849567361" />
+    <state x="276" y="96" width="728" height="576" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.672@0.0.1280.672" timestamp="1763601094824" />
+    <state x="421" y="92" key="FileChooserDialogImpl" timestamp="1763601186656">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state x="421" y="92" key="FileChooserDialogImpl/0.0.1280.672@0.0.1280.672" timestamp="1763601186656" />
     <state width="1242" height="197" key="GridCell.Tab.0.bottom" timestamp="1762850110786">
       <screen x="1920" y="0" width="1920" height="1032" />
     </state>

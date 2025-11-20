@@ -63,5 +63,5 @@
   "apply_prompt_tuning":false,
   "prompt_length":30,
   "prefix_length":30,
-  "apply_c_masks":true
+  "apply_c_masks":false
 }
