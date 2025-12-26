@@ -1,9 +1,16 @@
 #  PrAd: Prompt Adaptive Tuning for Decoder-only Language Models
 
-This is the official implementation for  [PrAd: Prompt Adaptive Tuning for Decoder-only Language Models](https://aclanthology.org/2025.findings-emnlp.254.pdf) (Findings EMNLP 2025).
-The complete code will be further completed and updated for better reading.
-If you have questions, feel free to contact  mayou_5@163.com
+This is the official implementation for  [PrAd: Prompt Adaptive Tuning for Decoder-only Language Models](https://aclanthology.org/2025.findings-emnlp.254.pdf) (Findings EMNLP 2025). If you have any questions, feel free to contact:  mayou_5@163.com
 
+## Abstract
+
+Fine tuning pretrained language models for downstream NLP tasks, while effective, can be costly when the model size and the number of tasks increase, as it requires full parameter updates and a separate model served for each task. Parameter-efficient tuning (PET) addresses the issue by keeping the pretrained parameters fixed while introducing minimal task-specific parameters. There are two essential PET paradigms: prompt-based tuning and adapter-based tuning, each with distinct limitations. Prompt-based methods suffer from increased input lengths and sensitivity to weight initialization, whereas adapter approaches can substantially increase inference time. To overcome these limitations, we propose prompt adaptive tuning (PrAd), a general prompt-based tuning framework for decode-only models that delivers strong performance with high efficiency, even in multi-task scenarios. Unlike conventional prompt-based tuning which uses soft tokens to “wrap” inputs, PrAd employs adapters for flexible input transformation. While traditional adapter-based tuning adapts both the prompt and decoded tokens, PrAd only adapts the prompt. PrAd enables the creation of diverse prompt-based approaches while providing critical advantages for real-world use: (1) it can maintain original input lengths with easy initialization during training, like adapter-based methods; (2) it can reduce management costs while facilitating deployment and efficient batch inference of different tasks, like prompt-based tuning.; and (3) it introduces no additional inference latency in the decoding phase even when serving multiple tasks concurrently. Experiments on six diverse tasks demonstrate that PrAd can consistently attain comparable or better performance and higher inference efficiency.
+
+![image-20251226144050183](./prad_inference.png)
+
+
+
+## References
 
 We used code from the following git repositories:
 
