@@ -16,6 +16,7 @@ We used code from the following git repositories:
 
 - [kernel-adapters](https://github.com/ychen-stat-ml/kernel-adapters)
 - [VGLM](https://github.com/zlinao/VGLM)
+- [stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca)
 
 We didn't include the evaluation code in our repository for simplicity.  You can use the following resource for evaluation: 
 

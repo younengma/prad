@@ -11,7 +11,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b93da79d-a119-40bc-9aad-0032596d812b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../llama/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../llama/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../llama/adapter/adapter_configuration.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../llama/adapter/adapters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../llama/configs/adapter0_r4.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../llama/configs/adapter_r4.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../llama/configs/lora0_r4.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../llama/configs/lora_r4.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../llama/data_collator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../llama/data_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../llama/evaluate_finetune.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../llama/finetune.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../llama/log_util.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../llama/model/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../llama/model/configuration_llama.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../llama/model/custom_llama.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../llama/model/modeling_llama.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../llama/model/tokenization_llama.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../llama/model/tokenization_llama_fast.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../llama/requirements" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../llama/util.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../llama/utils/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../llama/utils/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../llama/utils/callbacks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../llama/utils/prompter.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,7 +55,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../llama" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager" selected="Python.train">
@@ -116,10 +140,10 @@
     </state>
     <state x="2334" y="171" width="1092" height="715" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.672/1920.0.1920.1032@1920.0.1920.1032" timestamp="1762849567361" />
     <state x="276" y="96" width="728" height="576" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.672@0.0.1280.672" timestamp="1763601094824" />
-    <state x="421" y="92" key="FileChooserDialogImpl" timestamp="1763601186656">
+    <state x="421" y="92" key="FileChooserDialogImpl" timestamp="1766741150979">
       <screen x="0" y="0" width="1280" height="672" />
     </state>
-    <state x="421" y="92" key="FileChooserDialogImpl/0.0.1280.672@0.0.1280.672" timestamp="1763601186656" />
+    <state x="421" y="92" key="FileChooserDialogImpl/0.0.1280.672@0.0.1280.672" timestamp="1766741150979" />
     <state width="1259" height="155" key="GridCell.Tab.0.bottom" timestamp="1763605608753">
       <screen x="0" y="0" width="1280" height="672" />
     </state>

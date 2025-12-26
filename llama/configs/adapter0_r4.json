@@ -1,0 +1,12 @@
+{
+  "ffn_mode":"adapter",
+  "ffn_option":"parallel",
+  "ffn_adapter_layernorm_option":"none",
+  "ffn_adapter_scalar":1,
+  "ffn_r":4,
+
+  "lora_alpha":4,
+  "lora_dropout":0.1,
+
+  "apply_c_mask":false
+}
