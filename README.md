@@ -1,6 +1,7 @@
 #  PrAd: Prompt Adaptive Tuning for Decoder-only Language Models
 
 This is the official implementation for  [PrAd: Prompt Adaptive Tuning for Decoder-only Language Models](https://aclanthology.org/2025.findings-emnlp.254.pdf) (Findings EMNLP 2025). If you have any questions, feel free to contact:  mayou_5@163.com
+**The core idea of PrAd is to introduce adapters only in the prefill phase, leaving the decoding phase untouched, thereby introducing no overhead in the decoding phase.** 
 
 ## Abstract
 
