@@ -11,7 +11,9 @@ Fine tuning pretrained language models for downstream NLP tasks, while effective
 
 The architecture of PrAd is shown as below, where "M" stands for the Pretrained Language Model which is frozen, "A" stands for the adapter which is trainable and only used in the prefill Phase.
 
-![image-20251226144050183](./prad_inference.png){width=0.8\linewidth}
+<div align="center">
+  <img src="./prad_inference.png" alt="PRAD Inference" width="80%" />
+</div>
 
 
 
